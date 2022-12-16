@@ -55,7 +55,7 @@ hr {
 }
 
 .top-container {
-    background-image: url(images/landscape.jpg);
+    background-image: url(/images/landscape.jpg);
     width: 100%;
     position: relative;
     padding: 100px 0 500px;
